@@ -1,1 +1,7 @@
 s
+test1
+test2
+test3
+rer
+er
+erer test.txt 
